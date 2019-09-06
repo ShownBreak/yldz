@@ -25,11 +25,18 @@ git clone https://github.com/ShownBreak/yldz.git
 
 ### 游戏预览
 
-```markdown
 ![Demo](https://www.ldfangqi.cn/yinlidanzhures/res/tupian/1.png)
+
 ![Demo](https://www.ldfangqi.cn/yinlidanzhures/res/tupian/22.jpg)
-```
+
+
 
 ### 游戏下载
 
 这里是 [taptap](https://www.taptap.com/app/155417).
+
+这里是微信小程序，欢迎试玩：
+
+![Demo](https://www.ldfangqi.cn/yinlidanzhures/res/tupian/33.jpg)
+
+
