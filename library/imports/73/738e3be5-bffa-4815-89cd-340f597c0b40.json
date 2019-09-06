@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shubianjie",
+    "texture": "29f2b1eb-38aa-4459-9bd3-a7fdb3e26435",
+    "atlas": "",
+    "rect": [
+      30,
+      1200,
+      0,
+      0
+    ],
+    "offset": [
+      15,
+      -600
+    ],
+    "originalSize": [
+      30,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

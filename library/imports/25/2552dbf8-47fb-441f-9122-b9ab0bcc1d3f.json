@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meau",
+    "texture": "d43aae1a-a5b7-4645-a9e0-60a62499c225",
+    "atlas": "",
+    "rect": [
+      8,
+      10,
+      468,
+      468
+    ],
+    "offset": [
+      -1.5,
+      1
+    ],
+    "originalSize": [
+      487,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

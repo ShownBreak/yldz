@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gotogame",
+    "texture": "6b792afd-ae3e-42b7-95e8-32a503846f03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      180,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      180,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "item-states": [
+    {
+      "folded": false,
+      "id": "mount-assets"
+    },
+    {
+      "folded": true,
+      "id": "9f4375b4-07c4-40d3-9e7a-ff0ab8bf33d7"
+    },
+    {
+      "folded": true,
+      "id": "603db615-839e-4186-b04b-3fcd57a222ea"
+    },
+    {
+      "folded": true,
+      "id": "71a70083-0bc8-4761-a7e1-bdaa6ea5d194"
+    },
+    {
+      "folded": true,
+      "id": "1f2da3eb-883d-48b4-8eac-486a0cb9ec23"
+    },
+    {
+      "folded": true,
+      "id": "mount-i18n-plugin"
+    },
+    {
+      "folded": true,
+      "id": "mount-pinyin-plugin"
+    },
+    {
+      "folded": true,
+      "id": "7abfda1f-6264-4a31-9ec8-fcac483668c2"
+    },
+    {
+      "folded": true,
+      "id": "1f2ffa7d-262d-4128-98a5-f1cf8ef910a0"
+    },
+    {
+      "folded": true,
+      "id": "e22ca69e-2852-4931-a60b-d7eb5ab4e6e1"
+    },
+    {
+      "folded": true,
+      "id": "c1324a75-d573-45fb-b179-f9b6b77d45bc"
+    },
+    {
+      "folded": true,
+      "id": "ae0b211d-452b-48ef-9fc9-1d9932853e42"
+    },
+    {
+      "folded": true,
+      "id": "ad4b2db8-e104-465a-872d-3a0ed092ed8d"
+    },
+    {
+      "folded": true,
+      "id": "108cc010-946b-4d91-8f19-6c8d4c895d03"
+    },
+    {
+      "folded": true,
+      "id": "1fbdeb24-fbfd-4cd7-98b2-fd4211d1acf2"
+    },
+    {
+      "folded": true,
+      "id": "f3ccbe58-4740-4739-9c5b-c4841101cc81"
+    },
+    {
+      "folded": true,
+      "id": "7d18ae46-ed75-4ba9-a31a-2124617a4aa6"
+    },
+    {
+      "folded": true,
+      "id": "c7434635-d64b-420d-8402-e21de1a7ef01"
+    },
+    {
+      "folded": true,
+      "id": "69e2f0e2-82f3-4c60-960d-5c4f18cc52b1"
+    },
+    {
+      "folded": true,
+      "id": "406e60bf-0210-43bd-88f3-6bcfb523ff6e"
+    },
+    {
+      "folded": true,
+      "id": "49d1bb17-2c70-40b9-98ca-2583b5221963"
+    },
+    {
+      "folded": true,
+      "id": "f5582b6b-00d9-4b8a-97b2-0ddc5dbc25b9"
+    },
+    {
+      "folded": true,
+      "id": "6429a652-cd5d-4c5b-a993-cf856b2b8fc9"
+    },
+    {
+      "folded": true,
+      "id": "47426233-1c61-4cb1-a0b3-6e098b36e3ef"
+    },
+    {
+      "folded": true,
+      "id": "ef794022-30e0-46ca-89d5-ba98f9c6fc19"
+    },
+    {
+      "folded": true,
+      "id": "mount-plugin-matchvs-js"
+    },
+    {
+      "folded": true,
+      "id": "29f2b1eb-38aa-4459-9bd3-a7fdb3e26435"
+    },
+    {
+      "folded": true,
+      "id": "31c5b1de-9fc1-48cf-aad6-a3c42c78d429"
+    },
+    {
+      "folded": true,
+      "id": "9166c80b-f95a-41c3-b439-35ee75c82c04"
+    }
+  ]
+}

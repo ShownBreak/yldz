@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bianjie",
+    "texture": "f5582b6b-00d9-4b8a-97b2-0ddc5dbc25b9",
+    "atlas": "",
+    "rect": [
+      1200,
+      30,
+      0,
+      0
+    ],
+    "offset": [
+      600,
+      -15
+    ],
+    "originalSize": [
+      1200,
+      30
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

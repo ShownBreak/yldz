@@ -1,0 +1,170 @@
+2019-04-24T05:18:33.443Z - normal: Load ~/.CocosCreator/settings.json
+2019-04-24T05:18:34.900Z - normal: Initializing Asset Database
+2019-04-24T05:18:34.926Z - normal: checking language setting...
+2019-04-24T05:18:34.927Z - normal: Language: zh
+2019-04-24T05:18:37.959Z - success: preview server running at http://localhost:7456
+2019-04-24T05:18:37.963Z - success: protocol editor-framework registered
+2019-04-24T05:18:37.963Z - success: protocol app registered
+2019-04-24T05:18:37.963Z - success: protocol theme registered
+2019-04-24T05:18:37.963Z - success: protocol packages registered
+2019-04-24T05:18:37.963Z - success: protocol uuid registerred
+2019-04-24T05:18:37.964Z - success: protocol db registerred
+2019-04-24T05:18:37.964Z - success: protocol thumbnail registerred
+2019-04-24T05:18:37.964Z - success: protocol unpack registerred
+2019-04-24T05:18:37.964Z - success: protocol disable-commonjs registerred
+2019-04-24T05:18:38.141Z - normal: connected!
+2019-04-24T05:18:38.144Z - normal: Check project E:\cocosproject\yinliqianyin4wechat\NewProject
+2019-04-24T05:18:38.149Z - normal: Initializing project E:\cocosproject\yinliqianyin4wechat\NewProject
+2019-04-24T05:18:40.023Z - normal: Initializing Cocos2d
+2019-04-24T05:18:42.665Z - normal: Initializing engine extends
+2019-04-24T05:18:42.727Z - success: asset-db-debugger loaded
+2019-04-24T05:18:42.746Z - success: code-editor loaded
+2019-04-24T05:18:42.749Z - success: color-picker loaded
+2019-04-24T05:18:43.256Z - success: fb-audience-network loaded
+2019-04-24T05:18:43.360Z - success: fb-live-stream loaded
+2019-04-24T05:18:43.366Z - success: google-play-instant loaded
+2019-04-24T05:18:43.404Z - success: huawei-runtime loaded
+2019-04-24T05:18:43.406Z - success: jsb-adapter loaded
+2019-04-24T05:18:43.438Z - success: oppo-runtime loaded
+2019-04-24T05:18:43.475Z - success: package-manager loaded
+2019-04-24T05:18:44.171Z - success: qqplay-adapter loaded
+2019-04-24T05:18:44.175Z - success: runtime-dev-tools loaded
+2019-04-24T05:18:44.195Z - success: sdkbox loaded
+2019-04-24T05:18:44.203Z - success: tester loaded
+2019-04-24T05:18:44.208Z - success: ui-grid loaded
+2019-04-24T05:18:44.211Z - success: ui-kit-preview-extra loaded
+2019-04-24T05:18:44.214Z - success: ui-kit-preview loaded
+2019-04-24T05:18:44.218Z - success: ui-kit loaded
+2019-04-24T05:18:44.221Z - success: ui-tree loaded
+2019-04-24T05:18:44.243Z - success: vivo-runtime loaded
+2019-04-24T05:18:44.245Z - success: weapp-adapter loaded
+2019-04-24T05:18:44.346Z - success: assets loaded
+2019-04-24T05:18:44.349Z - success: builder loaded
+2019-04-24T05:18:45.132Z - success: cocos-services loaded
+2019-04-24T05:18:45.142Z - success: console loaded
+2019-04-24T05:18:45.191Z - success: fb-instant-games loaded
+2019-04-24T05:18:45.195Z - success: google-instant-games loaded
+2019-04-24T05:18:45.203Z - success: hierarchy loaded
+2019-04-24T05:18:45.206Z - success: inspector loaded
+2019-04-24T05:18:45.208Z - success: keystore loaded
+2019-04-24T05:18:45.215Z - success: node-library loaded
+2019-04-24T05:18:45.217Z - success: package-asset loaded
+2019-04-24T05:18:45.219Z - success: preferences loaded
+2019-04-24T05:18:45.221Z - success: project-exporter loaded
+2019-04-24T05:18:45.224Z - success: project-importer loaded
+2019-04-24T05:18:45.227Z - success: project-settings loaded
+2019-04-24T05:18:45.238Z - success: scene loaded
+2019-04-24T05:18:45.240Z - success: simulator-debugger loaded
+2019-04-24T05:18:45.242Z - success: sprite-editor loaded
+2019-04-24T05:18:45.247Z - success: store loaded
+2019-04-24T05:18:45.253Z - success: timeline loaded
+2019-04-24T05:18:49.333Z - normal: Loading packages
+2019-04-24T05:18:49.339Z - normal: Watching packages
+2019-04-24T05:18:49.489Z - info: Cocos Services load base data!
+2019-04-24T05:18:50.199Z - normal: Run Application
+2019-04-24T05:26:23.778Z - success: huawei-runtime unloaded
+2019-04-24T05:26:23.780Z - success: oppo-runtime unloaded
+2019-04-24T05:26:23.782Z - success: vivo-runtime unloaded
+2019-04-24T05:26:23.787Z - success: huawei-runtime loaded
+2019-04-24T05:26:23.788Z - success: oppo-runtime loaded
+2019-04-24T05:26:23.788Z - success: vivo-runtime loaded
+2019-04-24T05:26:26.841Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [
+    "armeabi-v7a"
+  ],
+  "buildPath": "E:\\cocosproject\\yinliqianyin4wechat\\NewProject\\build",
+  "debug": false,
+  "dest": "E:\\cocosproject\\yinliqianyin4wechat\\NewProject\\build\\wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.yinliqianyin",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "55f240e7-c07c-4cd8-84b1-b58c66b09334",
+    "ae3ca8e5-7641-4bb6-ad9f-4bbb7d5157b8",
+    "5b780a2e-008a-47eb-932f-08bfc8351e72",
+    "be1e0be0-cbb4-449c-a0e9-f6c531cb15df",
+    "9afbfecc-daed-471e-8e06-d0dfdaa241be",
+    "3d383dd0-3ea6-4beb-b750-6fc7460a55f1",
+    "f53831b9-f61c-4421-ae7a-000bc842d3a3"
+  ],
+  "sourceMaps": false,
+  "startScene": "55f240e7-c07c-4cd8-84b1-b58c66b09334",
+  "template": "default",
+  "title": "yinliqianyin",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://www.ldfangqi.cn/yinlidanzhures",
+    "appid": "wx0c82a67b5f0898e1",
+    "orientation": "landscape",
+    "subContext": "SubGame2"
+  },
+  "xxteaKey": "0476fe44-d7bd-44",
+  "zipCompressJs": true,
+  "project": "E:\\cocosproject\\yinliqianyin4wechat\\NewProject",
+  "projectName": "yinliqianyin",
+  "debugBuildWorker": false
+}
+2019-04-24T05:26:26.846Z - normal: Building E:\cocosproject\yinliqianyin4wechat\NewProject
+2019-04-24T05:26:26.846Z - normal: Destination E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame
+2019-04-24T05:26:27.389Z - normal: Delete E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame\subpackages/**/*,E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame\**\*,!E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame\SubGame2,!E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame\SubGame2\**\*
+2019-04-24T05:26:31.030Z - normal: Start building assets
+2019-04-24T05:26:31.030Z - normal: Start spawn build-worker
+2019-04-24T05:26:32.165Z - normal: Finish spawn build-worker
+2019-04-24T05:26:32.165Z - normal: Start init build-worker
+2019-04-24T05:26:36.871Z - normal: Finish init build-worker
+2019-04-24T05:26:36.872Z - normal: Start build-assets in worker
+2019-04-24T05:26:39.428Z - normal: Finish build-assets in worker
+2019-04-24T05:26:39.434Z - normal: Finish building assets
+2019-04-24T05:26:39.466Z - normal: Start building plugin scripts
+2019-04-24T05:26:39.501Z - normal: Generating main.js from D:\cocoscreator\CocosCreator\resources\static\build-templates\shares\main.js
+2019-04-24T05:26:40.212Z - success: weapp-adapter unloaded
+2019-04-24T05:26:40.239Z - success: weapp-adapter loaded
+2019-04-24T05:26:40.369Z - success: weapp-adapter unloaded
+2019-04-24T05:26:40.407Z - success: weapp-adapter loaded
+2019-04-24T05:26:40.539Z - success: weapp-adapter unloaded
+2019-04-24T05:26:40.548Z - success: weapp-adapter loaded
+2019-04-24T05:26:41.230Z - success: weapp-adapter unloaded
+2019-04-24T05:26:41.309Z - success: weapp-adapter loaded
+2019-04-24T05:26:41.435Z - normal: Built to "E:\cocosproject\yinliqianyin4wechat\NewProject\build\wechatgame" successfully
+2019-04-24T05:39:36.173Z - error: Window "window-1556083577123" crashed: [object Object]
+    at WebContents.nativeWin.webContents.on.e (D:\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:2607)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+2019-04-24T05:39:36.210Z - error: Window "main" crashed: [object Object]
+    at WebContents.nativeWin.webContents.on.e (D:\cocoscreator\CocosCreator\resources\app.asar\editor-framework\lib\main\window.js:1:2607)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)

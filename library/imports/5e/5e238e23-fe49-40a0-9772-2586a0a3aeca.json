@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mianban",
+    "texture": "69527363-1bf2-4737-84bd-2ba8cad613f2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      58
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      58
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

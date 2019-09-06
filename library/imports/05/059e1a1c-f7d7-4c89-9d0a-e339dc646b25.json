@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "titleboard",
+    "texture": "01b2bfbf-228e-4619-aaef-626bb75bfdb6",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      966,
+      92
+    ],
+    "offset": [
+      -3.5,
+      0.5
+    ],
+    "originalSize": [
+      979,
+      93
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

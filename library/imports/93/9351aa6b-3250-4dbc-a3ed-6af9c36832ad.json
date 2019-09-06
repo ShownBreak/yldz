@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "timebiao",
+    "texture": "f70a3ec1-c1a6-4017-b229-6c17deb4b07f",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      288,
+      289
+    ],
+    "offset": [
+      -4,
+      6.5
+    ],
+    "originalSize": [
+      304,
+      306
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

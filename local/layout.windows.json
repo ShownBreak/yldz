@@ -1,0 +1,138 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": -8,
+      "y": -8,
+      "width": 1382,
+      "height": 744,
+      "layout": {
+        "children": [
+          {
+            "children": [
+              {
+                "active": 0,
+                "children": [
+                  "hierarchy"
+                ],
+                "height": 293.9375,
+                "type": "panel",
+                "width": 206
+              },
+              {
+                "active": 0,
+                "children": [
+                  "assets"
+                ],
+                "height": 330.046875,
+                "type": "panel",
+                "width": 206
+              }
+            ],
+            "height": 626,
+            "type": "dock-v",
+            "width": 206
+          },
+          {
+            "active": 0,
+            "children": [
+              "scene"
+            ],
+            "height": 626,
+            "type": "panel",
+            "width": 848.984375
+          },
+          {
+            "active": 0,
+            "children": [
+              "inspector"
+            ],
+            "height": 626,
+            "type": "panel",
+            "width": 307
+          }
+        ],
+        "type": "dock-h"
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "inspector",
+        "scene"
+      ]
+    },
+    "window-1556083577123": {},
+    "worker": {}
+  },
+  "panels": {
+    "preferences": {
+      "x": 385,
+      "y": 85,
+      "width": 600,
+      "height": 564
+    },
+    "project-settings": {
+      "x": 385,
+      "y": 85,
+      "width": 600,
+      "height": 564
+    },
+    "sprite-editor": {
+      "x": 425,
+      "y": 85,
+      "width": 516,
+      "height": 538
+    },
+    "builder": {
+      "x": 340,
+      "y": 0,
+      "width": 670,
+      "height": 728
+    },
+    "console": {
+      "x": 147,
+      "y": 185,
+      "width": 1080,
+      "height": 338
+    },
+    "store": {
+      "x": 275,
+      "y": 35,
+      "width": 816,
+      "height": 638
+    },
+    "creator-helper.docs": {
+      "x": 276,
+      "y": 185,
+      "width": 1030,
+      "height": 438
+    },
+    "i18n": {
+      "x": 475,
+      "y": 185,
+      "width": 416,
+      "height": 364
+    },
+    "json-lint": {
+      "x": 225,
+      "y": 35,
+      "width": 916,
+      "height": 638
+    },
+    "plugin-matchvs": {
+      "x": 275,
+      "y": 90,
+      "width": 820,
+      "height": 554
+    },
+    "timeline": {
+      "x": 201,
+      "y": 187,
+      "width": 892,
+      "height": 390
+    }
+  }
+}

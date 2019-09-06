@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sharetoleap",
+    "texture": "9166c80b-f95a-41c3-b439-35ee75c82c04",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      701,
+      460
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      708,
+      468
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

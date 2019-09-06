@@ -1,0 +1,41 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.yinliqianyin",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "startScene": "55f240e7-c07c-4cd8-84b1-b58c66b09334",
+  "title": "yinliqianyin",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://www.ldfangqi.cn/yinlidanzhures",
+    "appid": "wx0c82a67b5f0898e1",
+    "orientation": "landscape",
+    "subContext": "SubGame2"
+  },
+  "xxteaKey": "0476fe44-d7bd-44",
+  "zipCompressJs": true
+}

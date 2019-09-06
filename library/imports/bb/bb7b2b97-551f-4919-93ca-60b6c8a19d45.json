@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "beat1",
+    "texture": "ae0b211d-452b-48ef-9fc9-1d9932853e42",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      701,
+      460
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      708,
+      468
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
