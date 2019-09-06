@@ -18,14 +18,18 @@
 `其余` - cocos 工程文件、配置文件.
 
 ### 源码下载
+
 ```bash
 git clone https://github.com/ShownBreak/yldz.git
 ```
+
 ### 游戏预览
-敬请期待
+
+```markdown
+![示图](/example/1.png "首页")
+![示图](F:\22.jpg "游戏场景")
+```
 
 ### 游戏下载
 
 这里是 [taptap](https://www.taptap.com/app/155417).
-
-
