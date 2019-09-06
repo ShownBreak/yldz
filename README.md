@@ -26,8 +26,8 @@ git clone https://github.com/ShownBreak/yldz.git
 ### 游戏预览
 
 ```markdown
-![示图](/example/1.png "首页")
-![示图](F:\22.jpg "游戏场景")
+![Demo](example/1.png)
+![示Demo](example/22.jpg)
 ```
 
 ### 游戏下载
